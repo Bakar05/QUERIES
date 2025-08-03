@@ -1,4 +1,4 @@
-# U.S. Power Plants: CO₂ Emissions & Energy Generation (2016)
+# eGRID Data Explorer: CO₂ Emissions & Energy Generation (2016)
 
 This Python project analyzes the 2016 eGRID dataset to explore electricity production and carbon emissions in the United States. It answers a series of data-driven questions about power plant performance, fuel types, and environmental impact using pandas.
 
